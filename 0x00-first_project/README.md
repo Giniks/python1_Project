@@ -5,7 +5,7 @@ Welcome, everyone, to my very first Python project! This project marks the begin
 All the projects are crucial and will advance my skills from beginner's level  to advance level. Through this project, I've gained valuable hands-on experience in Python programming, honed my problem-solving skills, and laid the foundation for future coding endeavors.
 
 ## Project Description
-- This is my first ever python project I did with 100 days of python coding. This is basically welcome pack to users of band name generator, where i asked the userd to input their cities and pet names to generate a band name. I also store these functions in a variable to be able to modify, call back, and add the function in another function like the print function. 
+- This is my first ever python project I did with 100 days of python coding. This is basically welcome pack to users of band name generator, where i asked the users to input their cities and pet names to generate their band names. I also stored these functions in some variables to be able to modify, call back, and add these functions in another function like the print function. 
 
 ## Technologies Used
 - **Programming Language:** Python [Version 3.8]
